@@ -1,5 +1,5 @@
 # koperasi-karyawan-tritama
-Project aplikasi koperasi karyawan pada PT Triklin Rekatama dengan php native
+Project aplikasi koperasi karyawan pada PT Triklin Rekatama dengan php native, Javascript, Css, Xml
 
 #instalasi
 -Xampp v.5.6 +
